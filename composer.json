@@ -1,0 +1,13 @@
+{
+  "name": "tranch/scribe-client",
+  "description": "PHP client for scribe",
+  "license": "0BSD",
+  "require": {
+    "apache/thrift": "0.11.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/thrift"
+    ]
+  }
+}
