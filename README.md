@@ -10,7 +10,8 @@ composer require tranch/scribe-client:0.1.0
 ## Usage
 
 ```php
-<?php
+require __DIR__ . '/vendor/autoload.php';
+
 use Thrift\Protocol\TBinaryProtocol;
 use Thrift\Transport\TFramedTransport;
 use Thrift\Transport\TSocketPool;
