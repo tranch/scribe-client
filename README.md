@@ -4,7 +4,7 @@ Scribe PHP
 ## Install
 
 ```
-composer require tranch/scribe-client:0.1.0
+composer require tranch/scribe-client
 ```
 
 ## Usage
